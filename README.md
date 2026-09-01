@@ -1,6 +1,6 @@
 # DOSW - Parcial Práctico T1
 
-**Nombre completo:** Kevin Andrey Angel Acevedo
+**Nombre completo:** Santiago Andres Garcia Almario
 
 **Grupo DOSW:** 1
 
