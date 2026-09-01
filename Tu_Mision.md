@@ -37,3 +37,7 @@ Para Consultar conteos y listados en cualquier nivel jerárquico
 Link Figma: https://www.figma.com/make/TVfuwcrmG4NEoUddXqkeia/Sin-t%C3%ADtulo?t=Kntijn3dKLyYNJZm-1
 
 **Cada uno de los Requisitos se desarrollo en su respectivo formato encontrado en la carperta docs/Formatos/**
+
+**5. Seleccione un requerimiento asociado a los patrones y realice la descomposición de tareas: Épica → Feature → Historia de Usuario → mínimo 3 tareas. (Añadirlo al README.md)**
+<img width="1905" height="895" alt="image" src="https://github.com/user-attachments/assets/e88f1f43-9582-4607-854b-8149cee3de8f" />
+
