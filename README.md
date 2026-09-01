@@ -4,6 +4,8 @@
 
 **Grupo DOSW:** 1
 
+**Bitacora:** https://github.com/SantiagoAGarcia/Bitacora-1.git
+
 **Enunciado asignado:** _(completar en la Parte 3)_
 
 ## Estructura del proyecto
