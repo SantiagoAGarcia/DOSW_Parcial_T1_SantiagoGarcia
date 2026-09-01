@@ -1,6 +1,7 @@
 **1.	Realice el diagrama de contexto con las generalidades del sistema. (Añadirlo al README.md)**
 
-<img width="761" height="634" alt="image" src="https://github.com/user-attachments/assets/61e4ba90-1446-45db-9384-778022828259" />
+<img width="875" height="634" alt="image" src="https://github.com/user-attachments/assets/f9aaadbc-1fe0-43f4-8d02-d2fa1335f78d" />
+
 
 
 **2.	Identifique 5 requerimientos del sistema: 3 funcionales y 2 no funcionales. Garantice que al menos 1 requerimiento funcional utilice Iterator y al menos 1 utilice Composite. (Añadirlo al README.md)**
