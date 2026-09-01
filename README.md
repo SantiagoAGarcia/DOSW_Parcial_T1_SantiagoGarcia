@@ -28,17 +28,18 @@ DOSW-ParcialT1
 
 ## Evidencias de prerrequisitos
 
-### Herramienta de modelado — Lucidchart
+### Herramienta de modelado — Draw.io
 
-Acceso activo a cuenta de Lucidchart, con documentos recientes visibles.
+Acceso activo a cuenta de draw.io, con documentos recientes visibles.
 
-![Evidencia Lucidchart](docs/images/evidencia-lucidchart.png)
+<img width="1915" height="990" alt="image" src="https://github.com/user-attachments/assets/8d76148e-364d-4188-91c6-18dfc8c788fb" />
 
 ### Herramienta de diseño de interfaces — Figma
 
 Acceso activo a cuenta de Figma, con archivos recientes visibles.
 
-![Evidencia Figma](docs/images/evidencia-figma.png)
+<img width="1917" height="982" alt="image" src="https://github.com/user-attachments/assets/e25ac3ce-ad06-4593-af83-32269cde33b1" />
+
 
 ### Proyecto corriendo con Maven
 
