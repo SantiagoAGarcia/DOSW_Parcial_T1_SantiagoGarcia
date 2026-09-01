@@ -33,4 +33,7 @@ Como Administrador de la red de refugios
 Quiero Tratar un refugio individual y una red de refugios de la misma manera
 Para Consultar conteos y listados en cualquier nivel jerárquico
 
+**4. Especifique los 2 requerimientos funcionales siguiendo la plantilla de Análisis de Requerimientos. (Añadir a docs/requirements/) - Genera las pantallas con Figma y adjuntalas.**
+Link Figma: https://www.figma.com/make/TVfuwcrmG4NEoUddXqkeia/Sin-t%C3%ADtulo?t=Kntijn3dKLyYNJZm-1
+
 **Cada uno de los Requisitos se desarrollo en su respectivo formato encontrado en la carperta docs/Formatos/**
