@@ -1,0 +1,5 @@
+package com.pawconnect.model;
+
+public enum EstadoSolicitud {
+    PENDIENTE, EN_REVISION, APROBADA, RECHAZADA, COMPLETADA
+}
